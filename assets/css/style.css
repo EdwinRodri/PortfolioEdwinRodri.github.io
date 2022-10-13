@@ -835,8 +835,7 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
-  width: 1900px;
-  display: flex;
+  
 }
 .contact .container{
  display: flex;
